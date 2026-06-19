@@ -29,8 +29,8 @@ Power Apps · Power Automate · Power Pages · Dataverse
 ### 📂 A few things I've built
 
 - **[Snowflake RBAC as Code](https://github.com/CelinaTurner/snowflake-rbac-terraform)** — a full Snowflake account modeled in Terraform with a proper role hierarchy and plan-on-PR CI/CD.
-- **Retail Analytics on Databricks** — an end-to-end medallion lakehouse with Unity Catalog governance and orchestrated Workflows.
-- **More on my portfolio →** see the link below.
+- **[Retail Analytics on Databricks](https://github.com/CelinaTurner/databricks-retail-lakehouse)** — an end-to-end medallion lakehouse: Auto Loader ingestion, dbt transforms with 24 data-quality tests, Unity Catalog governance, Asset Bundle orchestration, and GitHub Actions CI.
+- **[Medley of Music Analysis](https://github.com/CelinaTurner/spotify-analysis-medley)**  — exploratory analysis and K-Means clustering of a centr y of Spotify data in Python
 
 ---
 
